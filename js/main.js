@@ -65,7 +65,7 @@ toContact.addEventListener('click',() => {
       easing: 'ease-out',
       anchorPlacement: 'bottom-top',
       once: false,
-      disable: 'mobile',
+//       disable: 'mobile',
     });
 
     const dts = document.querySelectorAll('dt');
